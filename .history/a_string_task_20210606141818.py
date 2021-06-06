@@ -1,0 +1,6 @@
+x= str(input)
+a=""
+v=["a", "o", "y", "e", "u", "i",]
+for i in range(0,len(x)):
+    if (x[i].lower in v):
+    
